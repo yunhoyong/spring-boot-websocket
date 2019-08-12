@@ -1,3 +1,3 @@
 # Spring Boot Websocket
 
-http://spring.io/guides/gs/messaging-stomp-websocket/
+여행친구찾기 채팅방
